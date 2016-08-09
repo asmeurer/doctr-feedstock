@@ -9,7 +9,7 @@ source:
   sha256: 4d57cf7aa22e4257a62ec5cdf3d79fbbc40e516ef8fda85406cf1a809c63afa8
 
 build:
-  number: 0
+  number: 1
   entry_points:
     - doctr = doctr.__main__:main
   skip: true  # [py<35]
